@@ -165,7 +165,7 @@ https://dlswl1993.dothome.co.kr
   <br>
 
 - 커뮤니티(게시판)페이지 : 자유게시판, 크루모집, 번개모임, 질문게시판 등 각 게시판마다 링크를 연결시켜 원하는 페이지를 사용할 수 있도록 UI/UX 디자인
-  ![image](https://github.com/HwangInJi/Way-Run-Meaning/assets/163365140/f3d2d6ea-0962-4693-813d-bd2a526825ec)
+  ![board](https://github.com/HwangInJi/Way-Run-Meaning/assets/163365140/639c3815-e607-4050-874c-a17c640b56fb)
   <br><br>
 
 # 🎨 참고 레퍼런스 모음
