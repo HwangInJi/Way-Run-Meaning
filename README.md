@@ -152,6 +152,10 @@ https://dlswl1993.dothome.co.kr
 
 # 📌 사이트 UI/UX 디자인
 
+- 메인페이지 : 메인페이지의 각 섹션들이 메뉴탭과 이어질 수 있도록 흐름 구성
+  ![메인페이지 최종](https://github.com/nicejmp1/Way-Run-Meaning/assets/163364733/88c96721-33aa-40ca-aed3-ef2aa0e04389)
+  <br>
+
 - 로그인&회원가입 : 한 화면에서 편하게 이용자가 사용할 수 있도록 UI/UX 디자인
   ![log](https://github.com/HwangInJi/Way-Run-Meaning/assets/163365140/6762c6bb-c39e-4144-ba8c-7e2fdebcb674)
   <br>
@@ -160,12 +164,16 @@ https://dlswl1993.dothome.co.kr
   ![search](https://github.com/HwangInJi/Way-Run-Meaning/assets/163365140/bff7b9c6-da78-47d9-aac9-72b402e75737)
   <br>
 
-- 마이페이지 : 퍼즐형태와 일러스트/픽토그램을 통해 모바일 버전의 마이페이지 느낌을 주어 사용자의 손동작을 최소화하고 한눈에 사용자 정보를 전달
-  ![image](https://github.com/HwangInJi/Way-Run-Meaning/assets/163365140/d658c72a-1b9d-4e0c-a298-44b37aec2735)
+- 마이페이지 : 사용자의 닉네임과 이미지 캘린더를 이용한 정보확인을 마이페이지에서 확인 할 수 있게 제작
+  ![마이페이지](https://github.com/nicejmp1/Way-Run-Meaning/assets/163364733/9980b150-89fd-4804-bf4b-6a7805e58239)
   <br>
 
 - 커뮤니티(게시판)페이지 : 자유게시판, 크루모집, 번개모임, 질문게시판 등 각 게시판마다 링크를 연결시켜 원하는 페이지를 사용할 수 있도록 UI/UX 디자인
   ![board](https://github.com/HwangInJi/Way-Run-Meaning/assets/163365140/639c3815-e607-4050-874c-a17c640b56fb)
+  <br>
+
+- 브랜드스토리(어바웃)페이지 : 디자인적으로 이 사이트가 어떤 사이트인지를 간단히 설명하고 보여주는 페이지
+  ![브랜드 스토리](https://github.com/nicejmp1/Way-Run-Meaning/assets/163364733/9d05c0e1-edd8-4f6a-b2b6-18fb6211abbe)
   <br><br>
 
 # 🎨 참고 레퍼런스 모음
