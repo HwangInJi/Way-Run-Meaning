@@ -130,18 +130,18 @@ https://dlswl1993.dothome.co.kr
 
 # 📌 사이트 UI/UX 디자인
 - 로그인&회원가입 : 한 화면에서 편하게 이용자가 사용할 수 있도록 UI/UX 디자인
-![image](https://github.com/HwangInJi/Way-Run-Meaning/assets/163365140/2029815c-024c-406e-995e-cd834990caa5)
+![log](https://github.com/HwangInJi/Way-Run-Meaning/assets/163365140/6762c6bb-c39e-4144-ba8c-7e2fdebcb674)
 <br>
 
 - 아이디 찾기&비밀번호 찾기 : 한 화면에서 편하게 이용자가 사용할 수 있도록 UI/UX 디자인
-![image](https://github.com/HwangInJi/Way-Run-Meaning/assets/163365140/eedb740b-54b6-46a4-87f2-c738bb5702dd)
+![search](https://github.com/HwangInJi/Way-Run-Meaning/assets/163365140/bff7b9c6-da78-47d9-aac9-72b402e75737)
 <br>
 
 - 마이페이지 : 퍼즐형태와 일러스트/픽토그램을 통해 모바일 버전의 마이페이지 느낌을 주어 사용자의 손동작을 최소화하고 한눈에 사용자 정보를 전달
 ![image](https://github.com/HwangInJi/Way-Run-Meaning/assets/163365140/d658c72a-1b9d-4e0c-a298-44b37aec2735)
 <br>
 
-- 커뮤니티(게시판)페이지 : 공지사할부터 자유게시판, 크루모집. 랭킹확인까지 각 게시판마다 링크를 연결시켜 원하는 페이지를 사용할 수 있도록 UI/UX 디자인
+- 커뮤니티(게시판)페이지 : 자유게시판, 크루모집, 번개모임, 질문게시판 등 각 게시판마다 링크를 연결시켜 원하는 페이지를 사용할 수 있도록 UI/UX 디자인
 ![image](https://github.com/HwangInJi/Way-Run-Meaning/assets/163365140/f3d2d6ea-0962-4693-813d-bd2a526825ec)
 <br><br>
 
@@ -181,6 +181,8 @@ https://dlswl1993.dothome.co.kr
 - 추가로 정보 수정하기를 누르면 이미지 변경이 가능하고 크루를 입력하면 내 크루가 저장되도록 구현
 - 달력에는 내가 전체일정에서 찜한 내용이 마이페이지를 통해 볼 수 있도록 기능 구현
 - 여기에 오른쪽에 내가 찜한 마라톤을 누르면 해당 마라톤 웹페이지로 연동되도록 링크 설정
+
+## 05. 아이디찾기 & 비밀번호찾기
 
 
 
