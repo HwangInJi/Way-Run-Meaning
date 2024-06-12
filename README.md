@@ -22,7 +22,8 @@
 10. 메인 디자인 컨셉
 11. 메뉴 및 사이트 맵 구성
 12. UI/UX 디자인
-13. 디자인 참고 레퍼런스 모음음
+13. 디자인 참고 레퍼런스 모음
+14. 전체적인 기획단계
 <br><br>
 
 # ✒️ 프로젝트 제작 동기
@@ -127,7 +128,7 @@ https://dlswl1993.dothome.co.kr
 - 기록 페이지로 지속적인 성취감과 동기부여
 <br><br>
 
-# 📌 사이트 UI/UX 디자인 (진행중)
+# 📌 사이트 UI/UX 디자인
 - 로그인&회원가입 : 한 화면에서 편하게 이용자가 사용할 수 있도록 UI/UX 디자인
 ![image](https://github.com/HwangInJi/Way-Run-Meaning/assets/163365140/2029815c-024c-406e-995e-cd834990caa5)
 <br>
@@ -148,6 +149,38 @@ https://dlswl1993.dothome.co.kr
 ![image](https://github.com/HwangInJi/Way-Run-Meaning/assets/163365140/a0115195-1752-4c6f-a480-b328f57b8ad6)
 ![image](https://github.com/HwangInJi/Way-Run-Meaning/assets/163365140/eae1287d-0a70-4a37-afb5-81813fac34b8)
 
+# 📝 세부적인 기능 설명
+
+## 01. 메인 페이지
+![1](https://github.com/HwangInJi/Way-Run-Meaning/assets/163365140/5724148f-d913-4d45-a5ac-8749524de8c7)
+- 마이페이지에 있는 달력기능을 메인으로 끌고와 찜을 해놓은 마라톤 일정이 오른쪽에 표시되도록 기능 구현
+- 해당 기능은 마이페이지에 있으므로, 가입한 회원에 한하여 실행될 수 있게 구현
+<br>
+
+![2](https://github.com/HwangInJi/Way-Run-Meaning/assets/163365140/739e11ad-2219-4c87-bc10-ac9e1476bc27)
+- 마라톤의 일정 중 중요하거나, 혹은 인기있는 마라톤 4개만 우선 메인페이지에 보여지도록 설정
+- 더보기 버튼을 누르면 메뉴탭에 있는 전체일정으로 넘어가도록 설정
+
+## 02. 전체일정 페이지
+![3](https://github.com/HwangInJi/Way-Run-Meaning/assets/163365140/e1405333-1575-41c4-aa86-35fda76e696c)
+![4](https://github.com/HwangInJi/Way-Run-Meaning/assets/163365140/45a9a3e8-83ea-4e61-a8f7-f7b75850a4d5)
+- 다양한 세부 카테고리를 지정하여 수집한 마라톤 데이터들을 알맞은 카테고리에 지정하여 해당 탭을 누르면 지정된 마라톤만 뜨도록 설정
+- 여기에 하트를 누르면 찜목록이 되도록 기능 구현 및 해당 찜목록은 마이페이지의 달력으로 연동 가능
+- 웹사이트 버튼을 누르면 해당 마라톤 페이지로 연동되도록 링크 설정
+
+## 03. 커뮤니티(게시판) 페이지
+![6](https://github.com/HwangInJi/Way-Run-Meaning/assets/163365140/53cc19b1-3f46-4285-9152-b8b1755fdf3a)
+![7](https://github.com/HwangInJi/Way-Run-Meaning/assets/163365140/d5e822ae-a080-4044-870f-bb3a8a5c859b)
+- 자유게시판, 크루모집, 번개모임, 질문있어요 4개의 게시판을 만들고 각각의 게시판마다 글이 작성되고 저장, 수정되도록 구현
+- 댓글 또한 수정, 삭제가 가능하며 게시판, 해당 페이지의 글에만 작성이 되도록 기능 구현
+
+## 04. 마이페이지
+![8](https://github.com/HwangInJi/Way-Run-Meaning/assets/163365140/a6738725-f732-44cf-b638-28153765a971)
+![9](https://github.com/HwangInJi/Way-Run-Meaning/assets/163365140/04861051-c373-460e-9532-bad9ac66a914)
+- 마이페이지에는 기본적인 기능으로 가입날짜부터 얼마나 됐는지 카운트가 되고, 미션을 수행하면 레벨이 올라가는 시스템
+- 추가로 정보 수정하기를 누르면 이미지 변경이 가능하고 크루를 입력하면 내 크루가 저장되도록 구현
+- 달력에는 내가 전체일정에서 찜한 내용이 마이페이지를 통해 볼 수 있도록 기능 구현
+- 여기에 오른쪽에 내가 찜한 마라톤을 누르면 해당 마라톤 웹페이지로 연동되도록 링크 설정
 
 
 
